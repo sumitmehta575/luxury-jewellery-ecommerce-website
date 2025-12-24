@@ -1,10 +1,13 @@
-💎 Luxury Jewellery E-Commerce Website
+💎 Luxury Jewellery E-Commerce Website :-
+
+
 📌 Project Overview
 
 This project is a premium front-end jewellery e-commerce website designed to showcase luxury jewellery collections through an elegant, responsive, and visually rich user interface.
 The website serves as a digital showroom featuring curated jewellery categories, high-quality product displays, and modern UI/UX design principles.
 
 It is built as part of an academic / internship project to demonstrate front-end web development skills using modern web technologies.
+
 
 🎯 Objectives
 
@@ -17,6 +20,7 @@ Organize jewellery products into well-structured collections
 Implement interactive UI components for enhanced user experience
 
 Demonstrate practical knowledge of front-end development
+
 
 ✨ Key Features
 
@@ -36,6 +40,7 @@ Blog and testimonial sections
 
 Clean and structured codebase
 
+
 🛠️ Technologies Used
 
 HTML5 – Structure and semantic layout
@@ -45,6 +50,7 @@ CSS3 – Styling, animations, and responsive design
 JavaScript – Interactivity and dynamic elements
 
 Bootstrap – Responsive grid system and UI components
+
 
 🚀 Future Enhancements
 
@@ -58,6 +64,7 @@ Virtual try-on using AR
 
 User authentication and order tracking system
 
+
 🎓 Academic Relevance
 
 Developed as part of Industrial Training / Academic Project
@@ -66,11 +73,13 @@ Demonstrates practical implementation of front-end concepts
 
 Suitable for college submission, internships, and portfolio showcase
 
+
 👩‍💻 Author
 
 Sanjana Kumari
 B.Tech – Computer Science & Engineering
 Front-End Web Development Trainee
+
 
 📄 License
 
