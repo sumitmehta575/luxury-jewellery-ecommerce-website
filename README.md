@@ -76,8 +76,8 @@ Suitable for college submission, internships, and portfolio showcase
 
 👩‍💻 Author
 
-Sanjana Kumari
-B.Tech – Computer Science & Engineering
+Sanjana Kumari, 
+B.Tech – Computer Science & Engineering, 
 Front-End Web Development Trainee
 
 
